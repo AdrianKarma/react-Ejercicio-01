@@ -1,9 +1,10 @@
-# React + Vite
+# Ejercicio 01 de React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello world - Dificultad:  🟢
+- Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
 
-Currently, two official plugins are available:
-
+![tp01](https://github.com/AdrianKarma/react-Ejercicio-01/assets/20958616/b193217b-0ddb-45c4-a6d0-3ee7b34bd612)
 
 Link Netlify:
 https://react-tp-01-adrian-chanampa.netlify.app/
+
