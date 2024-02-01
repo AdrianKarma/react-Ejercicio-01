@@ -6,4 +6,4 @@ Currently, two official plugins are available:
 
 
 Link Netlify:
-[react-tp-01-adrian-chanampa](https://react-tp-01-adrian-chanampa.netlify.app/)https://react-tp-01-adrian-chanampa.netlify.app/
+(https://react-tp-01-adrian-chanampa.netlify.app/)https://react-tp-01-adrian-chanampa.netlify.app/
