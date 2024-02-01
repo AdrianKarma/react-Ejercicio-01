@@ -11,9 +11,9 @@
 Modo de uso
 Lineas para clonar y correr el proyecto:
 
-git clone 
-npm install
-npm run dev
+- `git clone`
+- `npm install`
+- `npm start`
 
 ##
  >[!IMPORTANT]
